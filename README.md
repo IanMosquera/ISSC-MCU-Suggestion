@@ -196,4 +196,4 @@ Below are the prices of STM32L476RGT6 offered on the market taken last Feb 11, 2
 - [JLCPCB.com](https://jlcpcb.com/)
 
 
-   
+Rev.02
