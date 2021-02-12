@@ -124,6 +124,7 @@ In addition, up to 24 capacitive sensing channels are available. The devices als
    | 3    | USB Device Line + Segment LCD Line |
    | 5    | USB OTG Line                       |
    | 6    | USB OTG Line + Segment LCD Line    |
+   
    Basically we would only want to use the USB OTG Line, but it would not hurt to include a Segment LCD Line for future purposes.
 
 6. STM32L476**x** _(No. of Pins)_
